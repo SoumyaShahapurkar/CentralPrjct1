@@ -1,2 +1,0 @@
-"Data for version1" 
-Data for version2
